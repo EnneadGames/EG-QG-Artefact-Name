@@ -16,8 +16,8 @@ Activate it
 Click on "Save Module Settings"
 
 Importing
-Make sure the macros and tables are imported into your world first
+Make sure the tables are imported into your world first
 
 How to use
-The macro should then be dragged to the hotbar to use
-Alternatly, 
+
+Drag the 

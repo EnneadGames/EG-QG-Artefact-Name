@@ -18,7 +18,7 @@
     {
       "name": "macro",
       "label": "EG QG Artefact Name Macro",
-      "path": "packs/Macro-EG_QG_Artefact_Name.db",
+      "path": "packs/Macro-EG_QG_Artefact_Name.json",
       "entity": "Macro",
       "module": "EG QG Artefact Name"
     },
