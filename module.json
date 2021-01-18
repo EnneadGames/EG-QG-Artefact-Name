@@ -1,0 +1,31 @@
+{
+  "author": "Ennead Games",
+  "authors": {
+    "name": "Chris Kentlea",
+    "url": "https://website.com/of/the/author",
+    "email": "contact@enneadgames.com",
+    "twitter": "@enneadgames"
+  },
+  "compatibleCoreVersion": "0.7.9",
+  "description": "Ennead Games FoundryVTT Module - Random generation of Artefact Name",
+  "minimumCoreVersion": "0.7.9",
+  "name": "EG QG Artefact Name",
+  "title": "EG QG Artefact Name",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "name": "macro",
+      "label": "EG QG Artefact Name Macro",
+      "path": "macros/fvtt-Macro-EG_QG_Artefact_Name.json",
+      "entity": "Macro",
+      "module": "EG QG Artefact Name"
+    },
+    {
+      "name": "rolltable",
+      "label": "EG QG Artefact Name Rolltables",
+      "path": "packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "EG QG Artefact Name"
+    }
+  ]
+}
