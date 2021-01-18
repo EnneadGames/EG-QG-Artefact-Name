@@ -13,10 +13,8 @@ Activate it
 Click on "Save Module Settings"
 
 Importing
-Make sure the tables are imported into your world first
+Go to compedium and find the EG folders
+Right click on the rolltables and import
+Do the same for the macro(s)
 
-Usage without the Module:
-Download the .js file to your machine
-Create a new macro in Foundry
-Right click the macro in the Macro Toolbar and click import
-Import the .js file 
+
