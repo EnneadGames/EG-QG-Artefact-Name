@@ -25,6 +25,6 @@
   "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json",
   "download": "https://github.com/EnneadGames/EG-QG-Artefact-Name/archive/0.0.5.zip",
   "socket":  true,
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.0",
   "minimumCoreVersion": "0.7.9"
 }
