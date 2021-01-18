@@ -7,14 +7,14 @@ Manifest URL:
 Copy this link - https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json
 
 
-Once downloaded and installed, launch your game world and go to "Manage Modules"
-Find the module on the list of the ones you have installed
-Activate it
-Click on "Save Module Settings"
+<br>Once downloaded and installed, launch your game world and go to "Manage Modules"
+<br>Find the module on the list of the ones you have installed
+<br>Activate it
+<br>Click on "Save Module Settings"
 
 Importing
-Go to compedium and find the EG folders
-Right click on the rolltables and import
-Do the same for the macro(s)
+<br>Go to compedium and find the EG folders
+<br>Right click on the rolltables and import
+<br>Do the same for the macro(s)
 
 
