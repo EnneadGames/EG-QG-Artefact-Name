@@ -1,0 +1,22 @@
+{
+  "name": "EG QG Artefact Name",
+  "type": "script",
+  "sort": 100001,
+  "flags": {
+    "furnace": {
+      "runAsGM": true
+    },
+    "exportSource": {
+      "world": "egdevsimple",
+      "system": "worldbuilding",
+      "coreVersion": "0.7.9",
+      "systemVersion": 0.4
+    }
+  },
+  "scope": "global",
+  "command": "let table1 = game.tables.getName(\"EG QG Artefact Name P1\")\nlet table2 = game.tables.getName(\"EG QG Artefact Name P2\")\n\nlet roll1 = table1.roll().results[0].text;\nlet roll2 = table2.roll().results[0].text;\n\nlet content = `${roll1}${roll2}.`\n\nChatMessage.create({content: content})",
+  "author": "dteluxGH98yKgKI6",
+  "img": "icons/svg/dice-target.svg",
+  "actorIds": [],
+  "_id": "EetDcobt3YcewG3Y"
+}
