@@ -12,6 +12,7 @@
   "name": "EG QG Artefact Name",
   "title": "EG QG Artefact Name",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json",
   "packs": [
     {
       "name": "macro",
