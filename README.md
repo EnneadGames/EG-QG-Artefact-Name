@@ -13,7 +13,7 @@ Activate it
 Click on "Save Module Settings"
 
 Importing
-Go to compedium and find the EG folders
+<br>Go to compedium and find the EG folders
 Right click on the rolltables and import
 Do the same for the macro(s)
 
