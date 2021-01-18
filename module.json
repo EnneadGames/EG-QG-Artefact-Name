@@ -2,14 +2,14 @@
   "name": "EG QG Artefact Name",
   "title": "EG QG Artefact Name",
   "description": "Ennead Games FoundryVTT Module - Random generation of Artefact Name",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Ennead Games",
 
   "packs": [
     {
       "name": "macro",
       "label": "EG QG Artefact Name Macro",
-      "path": "packs/Macro-EG_QG_Artefact_Name.json",
+      "path": "packs/Macro-EG_QG_Artefact_Name.db",
       "module": "EG QG Artefact Name",
       "entity": "Macro"
     },
@@ -23,8 +23,8 @@
   ],
   "url": "https://github.com/EnneadGames/EG-QG-Artefact-Name",
   "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json",
-  "download": "https://github.com/EnneadGames/EG-QG-Artefact-Name/releases/download/0.05/EG-QG-Artefact-Name.zip",
+  "download": "https://github.com/EnneadGames/EG-QG-Artefact-Name/releases/download/0.0.6/EG-QG-Artefact-Name.zip",
   "socket": true,
-  "compatibleCoreVersion": "0.7.0",
-  "minimumCoreVersion": "0.7.9"
+  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.7.0"
 }
