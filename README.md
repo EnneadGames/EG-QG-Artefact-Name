@@ -12,7 +12,7 @@ Copy this link - https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Na
 <br>Activate it</br>
 <br>Click on "Save Module Settings"</br>
 <br></br>
-<br></br>
+
 Importing
 <br>Go to compedium and find the EG folders</br>
 <br>Right click on the rolltables and import</br>
