@@ -11,7 +11,7 @@
   "minimumCoreVersion": "0.7.9",
   "name": "EG QG Artefact Name",
   "title": "EG QG Artefact Name",
-  "version": "1.0.0",
+  "version": "0.0.4",
   "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json",
   "download": "https://github.com/EnneadGames/EG-QG-Artefact-Name/archive/0.0.4.zip",
   "packs": [
@@ -19,15 +19,15 @@
       "name": "macro",
       "label": "EG QG Artefact Name Macro",
       "path": "packs/Macro-EG_QG_Artefact_Name.json",
-      "entity": "Macro",
-      "module": "EG QG Artefact Name"
+      "module": "EG QG Artefact Name",
+      "entity": "Macro"
     },
     {
       "name": "rolltable",
       "label": "EG QG Artefact Name Rolltables",
       "path": "packs/EG QG Artefact tables.db",
-      "entity": "RollTable",
-      "module": "EG QG Artefact Name"
+      "module": "EG QG Artefact Name",
+      "entity": "RollTable"
     }
   ]
 }
