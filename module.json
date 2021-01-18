@@ -1,17 +1,11 @@
 {
-  "author": "Ennead Games",
-  "authors": {
-    "name": "Chris Kentlea",
-    "url": "https://website.com/of/the/author",
-    "email": "contact@enneadgames.com",
-    "twitter": "@enneadgames"
-  },
-  "compatibleCoreVersion": "0.7.9",
-  "description": "Ennead Games FoundryVTT Module - Random generation of Artefact Name",
-  "minimumCoreVersion": "0.7.9",
   "name": "EG QG Artefact Name",
   "title": "EG QG Artefact Name",
+  "description": "Ennead Games FoundryVTT Module - Random generation of Artefact Name",
   "version": "0.0.4",
+  "author": "Ennead Games",
+  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.7.9",
   "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json",
   "download": "https://github.com/EnneadGames/EG-QG-Artefact-Name/archive/0.0.4.zip",
   "packs": [
