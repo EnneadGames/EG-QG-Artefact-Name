@@ -18,14 +18,14 @@
     {
       "name": "macro",
       "label": "EG QG Artefact Name Macro",
-      "path": "packs/fvtt-Macro-EG_QG_Artefact_Name.json",
+      "path": "packs/Macro-EG_QG_Artefact_Name.db",
       "entity": "Macro",
       "module": "EG QG Artefact Name"
     },
     {
       "name": "rolltable",
       "label": "EG QG Artefact Name Rolltables",
-      "path": "packs/tables.db",
+      "path": "packs/EG QG Artefact tables.db",
       "entity": "RollTable",
       "module": "EG QG Artefact Name"
     }
