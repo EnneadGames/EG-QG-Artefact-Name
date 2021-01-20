@@ -5,7 +5,7 @@ let table2 = game.tables.getName("EG QG Artefact Name P2")
 let roll1 = table1.roll().results[0].text;
 let roll2 = table2.roll().results[0].text;
 
-let content = `${roll1}${roll2}.`
+let content = `Artefact Name: ${roll1}${roll2}.`
 
 ChatMessage.create({content: content})
 }
