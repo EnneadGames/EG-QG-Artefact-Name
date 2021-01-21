@@ -1,7 +1,7 @@
 # EG-QG-Artefact-Name
 Ennead Games Quick gen for "Artifect Name" PDf of the same title
 
-How to download/install
+## How to download/install
 
 Manifest URL:
 Copy this link - https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json
@@ -19,3 +19,4 @@ Importing
 <br>Do the same for the macro(s)</br>
 
 
+Suggested Other Modules
