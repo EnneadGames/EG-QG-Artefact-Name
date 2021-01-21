@@ -5,7 +5,7 @@ Ennead Games Quick gen for "Artifect Name" PDf of the same title
 
 Manifest URL:
 Copy this link - 
-'https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json'
+`https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json`
 
 
 Once downloaded and installed, launch your game world and go to "Manage Modules"
