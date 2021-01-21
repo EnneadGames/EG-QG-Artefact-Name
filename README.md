@@ -4,7 +4,7 @@ Ennead Games Quick Genrerator for "Artifect Name" PDF of the same title
 ## How to download/install
 
 ### Manifest URL
-Copy this link - 
+To install this module automatically, copy this link - 
 `https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json`
 
 ### Zip
