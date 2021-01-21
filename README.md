@@ -8,6 +8,8 @@ Copy this link -
 `https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json`
 
 ### Zip
+Download the latest zip and extract it to your module data folder
+
 
 Once downloaded and installed, launch your game world and go to "Manage Modules"
 Find the module on the list of the ones you have installed
