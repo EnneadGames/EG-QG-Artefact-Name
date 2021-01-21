@@ -8,7 +8,8 @@ To install this module automatically, copy this link -
 `https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json`
 
 ### Zip
-Download the latest zip and extract it to your module data folder. 
+Download the latest release zip (from here `https://github.com/EnneadGames/EG-QG-Artefact-Name/releases`)
+and extract it to your module data folder. 
 
 
 1. Once downloaded and installed, launch your game world and go to "Manage Modules"
@@ -23,14 +24,10 @@ Download the latest zip and extract it to your module data folder.
 2. Right click on the rolltables and import
 3. Do the same for any macro(s)
 
-
-
 ## How to use
 
 
-
 ## Suggested Other Modules
-
 
 These are other modules, not done by the author, that you might like to use in 
 conjuction with this one.
