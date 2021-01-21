@@ -32,7 +32,8 @@ Download the latest zip and extract it to your module data folder.
 ## Suggested Other Modules
 
 
-These are other modules, not done by the author, that you might like to use in conjuction with with this one.
+These are other modules, not done by the author, that you might like to use in 
+conjuction with this one.
 
 1. 
 2. 
