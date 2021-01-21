@@ -11,16 +11,17 @@ Copy this link -
 Download the latest zip and extract it to your module data folder
 
 
-Once downloaded and installed, launch your game world and go to "Manage Modules"
-Find the module on the list of the ones you have installed
-Activate it
-Click on "Save Module Settings"
+1 Once downloaded and installed, launch your game world and go to "Manage Modules"
+2 Find the module on the list of the ones you have installed
+3 Activate it
+4 Click on "Save Module Settings"
 
 
 ## Importing
-Go to compedium and find the EG folders
-Right click on the rolltables and import
-Do the same for the macro(s)
+1 Go to compedium and find the EG folders
+2 Right click on the rolltables and import
+3 Do the same for any macro(s)
+
 
 
 ## How to use
