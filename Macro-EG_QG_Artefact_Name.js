@@ -8,4 +8,5 @@ let roll2 = table2.roll().results[0].text;
 let content = `Artefact Name: ${roll1}${roll2}.`
 
 ChatMessage.create({content: content})
+
 }

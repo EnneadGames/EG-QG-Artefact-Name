@@ -25,12 +25,14 @@ and extract it to your module data folder.
 3. Do the same for any macro(s)
 
 ## How to use
+1. Roll on the table (or use the macro) to outpput/whisper the result to chat
+2. Use in game as required
 
 
 ## Suggested Other Modules
 
 These are other modules, not done by the author, that you might like to use in 
-conjuction with this one.
+conjuction with this one. 
 
-1. 
-2. 
+1. Table Ninja - Groups your tables together in an easy 
+to use interface and shows the results -  `https://foundryvtt.com/packages/table-ninja/`
